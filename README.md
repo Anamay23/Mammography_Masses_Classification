@@ -1,4 +1,4 @@
-# Masses_Classification
+# Mammography_Masses_Classification
 This project is a case study comparing the accuracies of different supervised classification algorithms for the Mammographic masses [dataset](https://archive.ics.uci.edu/ml/datasets/Mammographic+Mass) provided by [UC, Irvine](https://uci.edu/).
 
 ## Problem
